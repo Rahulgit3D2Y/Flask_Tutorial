@@ -1,2 +1,2 @@
 # Flask_Tutorial
-learning flaks by building a website
+learning flask by building a website
